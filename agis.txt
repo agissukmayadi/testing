@@ -5,3 +5,6 @@ agis1
 
 
 agis ajja
+
+
+merge conflict lokal
